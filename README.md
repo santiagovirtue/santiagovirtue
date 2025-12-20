@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📄 My Resume
+
+You can check my CV here:
+
+👉 [CV – Santiago Acevedo](https://github.com/santiagovirtue/CV_Santiago_Acevedo)
