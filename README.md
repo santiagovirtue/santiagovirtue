@@ -1,20 +1,41 @@
-## Hi there 👋
+# CV_Santiago_Acevedo
+Repositorio para mi hoja de vida como programador
+# Hola, soy Santiago
 
-<!--
-**santiagovirtue/santiagovirtue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aprendiz de Desarrollo de Software  
+📍 En formación constante  
+🔥 Disciplina, constancia y enfoque en crecer en tecnología
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 📄 My Resume
+## Perfil Profesional
+Aprendiz de software con bases en programación y bases de datos.  
+Motivado, responsable y comprometido con el aprendizaje continuo.  
+Busco crecer paso a paso hasta convertirme en Ingeniero de Software.
+
+---
+
+## Tecnologías
+- HTML
+- CSS
+- Git & GitHub
+- Bases de Datos (SQL)
+- Lógica de programación
+
+---
+
+## 📂 Proyectos Destacados
+🔹 **Bases de Datos – Ficha 3065370**  
+Trabajo académico enfocado en fundamentos de bases de datos.
+
+🔹 **Almacenamiento de Actividades**  
+Repositorio para prácticas y trabajos de formación.
+
+---
+
+##  Objetivo Profesional
+Desarrollarme como **Ingeniero de Software**, adquiriendo experiencia real y construyendo proyectos sólidos.
+
 
 You can check my CV here:
 
