@@ -35,7 +35,7 @@ Aprendiz de Desarrollo de Software, enfocado en backend y bases de datos, con in
 Trabajo académico enfocado en fundamentos de bases de datos (modelado, consultas y conceptos SQL).
 
 🔹 **Almacenamiento de Actividades**  
-Repositorio para prácticas y trabajos de formación.
+Repositorio para prácticas y trabajos de formación. 
 
 ---
 
@@ -43,10 +43,23 @@ Repositorio para prácticas y trabajos de formación.
 - Actualmente me encuentro aprendiendo: SQL + MongoDB + Git + fundamentos de programación
 - Construyendo proyectos para practicar (CRUD, ejercicios de lógica)
 - Meta 2026: Construir mi primera página web / primer empleo  como desarrollador JUNIOR / Graduarme como Tecnólogo en el SENA / Nivel A2 de inglés / Ser mejor cada día
-
+  
+---
 
 ##  Objetivo Profesional
 Desarrollarme como **Ingeniero de Software**, adquiriendo experiencia real y construyendo proyectos sólidos.
+
+---
+
+## 🌐 Redes
+
+-Email
+[![Email](https://img.shields.io/badge/Email-Gmail-red?logo=gmail)](sg5295506@gmail.com)
+-Linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/TU_USUARIO/)
+
+
+
 
 
 You can check my CV here:
