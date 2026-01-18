@@ -52,10 +52,7 @@ Desarrollarme como **Ingeniero de Software**, adquiriendo experiencia real y con
 ---
 
 ## 🌐 Redes
-
--Email
 [![Email](https://img.shields.io/badge/Email-Gmail-red?logo=gmail)](sg5295506@gmail.com)
--Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/TU_USUARIO/)
 
 
