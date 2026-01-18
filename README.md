@@ -52,8 +52,15 @@ Desarrollarme como **Ingeniero de Software**, adquiriendo experiencia real y con
 ---
 
 ## 🌐 Redes
-[![Email](https://img.shields.io/badge/Email-Gmail-red?logo=gmail)](sg5295506@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/TU_USUARIO/)
+## 🌐 Redes
+
+[![Email](https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white)](mailto:sg5295506@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-gutierrez-acevedo-bb6174290/)
+
+
+
+
+
 
 
 
