@@ -4,9 +4,9 @@ Repositorio para mi hoja de vida como programador
 ---
 
 Nombre - Santiago Gutierrez Acevedo -
-perfil - Aprendiz de Desarrollo de Software 
-Informacion De contacto - Gmail - sg5295506@gmail.com
-Telefono - +57 313 2146285
+perfil - Aprendiz de Desarrollo de Software - 
+Informacion De contacto - Gmail - sg5295506@gmail.com -
+Telefono - +57 313 2146285 -
 Linkedin - https://www.linkedin.com/in/santiago-gutierrez-acevedo-bb6174290/
 
 ---
